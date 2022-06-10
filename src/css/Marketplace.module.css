@@ -1,0 +1,823 @@
+.ellipseIcon {
+  position: absolute;
+  top: 248px;
+  left: 435px;
+  width: 240px;
+  height: 240px;
+  display: none;
+}
+.rectangleDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: #fff;
+  width: 1440px;
+  height: 72px;
+  opacity: 0.01;
+}
+.about,
+.contact,
+.marketplace,
+.resourcesA {
+  text-decoration: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  font-weight: 600;
+  color: inherit;
+  display: inline-block;
+}
+.contact,
+.marketplace,
+.resourcesA {
+  left: 79px;
+  color: #0461d1;
+}
+.contact,
+.resourcesA {
+  left: 197px;
+  color: inherit;
+}
+.contact {
+  left: 303px;
+}
+.groupDiv {
+  position: absolute;
+  top: 28px;
+  left: 543px;
+  width: 353px;
+  height: 18px;
+}
+.frameButton {
+  position: absolute;
+  top: 0;
+  left: 83px;
+}
+.frameButton1,
+.groupDiv1 {
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.groupDiv1 {
+  top: 16px;
+  left: 1103px;
+  width: 172px;
+  height: 40px;
+}
+.carbonshoppingCartIcon {
+  position: absolute;
+  top: 24px;
+  left: 1251px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  display: none;
+}
+.groupIcon {
+  position: absolute;
+  top: 1441px;
+  left: 0;
+  width: 1600px;
+  height: 434px;
+}
+.takeAdvantageOfTheVarious {
+  position: absolute;
+  top: 1622px;
+  left: 450px;
+  font-size: 16px;
+  line-height: 28px;
+  font-family: Poppins;
+  color: #f4f9ff;
+  text-align: center;
+  display: inline-block;
+  width: 540px;
+}
+.frameButton2 {
+  position: absolute;
+  top: 1718px;
+  left: 642px;
+  background-color: white;
+}
+.joinTheFamilyToday {
+  position: absolute;
+  top: 1558px;
+  left: 450px;
+  font-size: 36px;
+  line-height: 48px;
+  color: #f4f9ff;
+  text-align: center;
+  display: inline-block;
+  width: 540px;
+  font-family: Poppins;
+}
+.ellipseIcon1 {
+  position: absolute;
+  top: 50px;
+  left: 660px;
+  width: 4px;
+  height: 4px;
+}
+.aboveDiv,
+.aboveDiv1,
+.aboveDiv2,
+.aboveDiv3,
+.allDiv {
+  position: absolute;
+  height: 3.13%;
+  width: 3.96%;
+  top: 45.14%;
+  right: 89.51%;
+  bottom: 51.72%;
+  left: 6.53%;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.aboveDiv,
+.aboveDiv1,
+.aboveDiv2,
+.aboveDiv3 {
+  width: 11.89%;
+  top: 51.41%;
+  right: 52.68%;
+  bottom: 45.45%;
+  left: 35.43%;
+}
+.aboveDiv1,
+.aboveDiv2,
+.aboveDiv3 {
+  top: 57.68%;
+  bottom: 39.18%;
+}
+.aboveDiv2,
+.aboveDiv3 {
+  top: 63.95%;
+  bottom: 32.92%;
+}
+.aboveDiv3 {
+  top: 70.22%;
+  bottom: 26.65%;
+}
+.clearFilterB,
+.developedByDiv {
+  position: absolute;
+  top: 0;
+  left: 0;
+  display: inline-block;
+}
+.developedByDiv {
+  font-weight: 800;
+  text-align: center;
+}
+.clearFilterB {
+  letter-spacing: 0.05em;
+}
+.groupDiv3 {
+  position: absolute;
+  top: 0;
+  left: 212px;
+  width: 75px;
+  height: 18px;
+  display: none;
+  color: #0461d1;
+}
+.applicationTypeDiv,
+.ratingByDiv {
+  position: absolute;
+  top: 250px;
+  left: 0;
+  font-weight: 800;
+  text-align: center;
+  display: inline-block;
+}
+.applicationTypeDiv {
+  top: 500px;
+}
+.ladotCircleIcon {
+  position: absolute;
+  top: 538px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.ladotCircleFormCheck,
+.ladotCircleFormCheck1 {
+  position: absolute;
+  top: 578px;
+  left: 0;
+}
+.ladotCircleFormCheck1 {
+  top: 618px;
+}
+.allDiv1,
+.mobileApplicationsDiv,
+.webBasedApplications {
+  position: absolute;
+  height: 3.13%;
+  width: 3.96%;
+  top: 84.33%;
+  right: 89.51%;
+  bottom: 12.54%;
+  left: 6.53%;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.mobileApplicationsDiv,
+.webBasedApplications {
+  width: 35.2%;
+  top: 90.6%;
+  right: 58.28%;
+  bottom: 6.27%;
+}
+.mobileApplicationsDiv {
+  width: 28.9%;
+  top: 96.87%;
+  right: 64.57%;
+  bottom: 0;
+}
+.ladotCircleIcon1 {
+  position: absolute;
+  top: 288px;
+  left: 0;
+  width: 20px;
+  height: 20px;
+  overflow: hidden;
+}
+.ladotCircleFormCheck2,
+.ladotCircleFormCheck3 {
+  position: absolute;
+  top: 328px;
+  left: 0;
+}
+.ladotCircleFormCheck3 {
+  top: 368px;
+}
+.ladotCircleFormCheck4,
+.ladotCircleFormCheck5 {
+  position: absolute;
+  top: 408px;
+  left: 0;
+}
+.ladotCircleFormCheck5 {
+  top: 448px;
+}
+.groupIcon1,
+.groupIcon2,
+.groupIcon3,
+.groupIcon4 {
+  position: absolute;
+  top: 330px;
+  left: 28px;
+  width: 112px;
+  height: 16px;
+}
+.groupIcon2,
+.groupIcon3,
+.groupIcon4 {
+  top: 370px;
+}
+.groupIcon3,
+.groupIcon4 {
+  top: 410px;
+}
+.groupIcon4 {
+  top: 450px;
+}
+.ladotCircleFormCheck6 {
+  position: absolute;
+  top: 38px;
+  left: 0;
+}
+.ladotCircleFormCheck7,
+.ladotCircleFormCheck8 {
+  position: absolute;
+  top: 78px;
+  left: 0;
+}
+.ladotCircleFormCheck8 {
+  top: 118px;
+}
+.ladotCircleFormCheck10,
+.ladotCircleFormCheck9 {
+  position: absolute;
+  top: 158px;
+  left: 0;
+}
+.ladotCircleFormCheck10 {
+  top: 198px;
+}
+.allDiv2,
+.evoqueInnovativeLab,
+.loremIpsumDiv {
+  position: absolute;
+  height: 3.13%;
+  left: 6.53%;
+  line-height: 20px;
+  display: inline-block;
+}
+.allDiv2 {
+  width: 3.96%;
+  top: 5.96%;
+  right: 89.51%;
+  bottom: 90.91%;
+  font-weight: 500;
+}
+.evoqueInnovativeLab,
+.loremIpsumDiv {
+  width: 36.6%;
+  top: 12.23%;
+  right: 56.88%;
+  bottom: 84.64%;
+  font-family: Poppins;
+}
+.loremIpsumDiv {
+  width: 21.21%;
+  top: 18.5%;
+  right: 72.26%;
+  bottom: 78.37%;
+}
+.groupIcon5 {
+  position: absolute;
+  top: 293px;
+  left: 380px;
+  width: 49px;
+  height: 52px;
+}
+.loremIpsumDiv1,
+.loremIpsumDiv2 {
+  position: absolute;
+  height: 3.13%;
+  width: 21.21%;
+  top: 24.76%;
+  right: 72.26%;
+  bottom: 72.1%;
+  left: 6.53%;
+  line-height: 20px;
+  font-family: Poppins;
+  display: inline-block;
+}
+.loremIpsumDiv2 {
+  top: 31.03%;
+  bottom: 65.83%;
+}
+.groupDiv2 {
+  position: absolute;
+  height: 100%;
+  width: 209.27%;
+  top: 0;
+  right: -109.27%;
+  bottom: 0;
+  left: 0;
+}
+.frameDiv {
+  position: absolute;
+  top: 502px;
+  left: 165px;
+  width: 205px;
+  height: 638px;
+}
+.rectangleDiv1 {
+  border-radius: 8px;
+  background-color: #0461d1;
+}
+.maskGroupIcon,
+.rectangleDiv1 {
+  position: absolute;
+  top: 72px;
+  left: 165px;
+  width: 1110px;
+  height: 320px;
+}
+.welcomeToMarketplace {
+  position: absolute;
+  top: 175px;
+  left: 383px;
+  font-size: 34px;
+  line-height: 56px;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+  width: 674px;
+  font-family: Poppins;
+}
+.indiasFirstProducts {
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.advancedTools {
+  margin: 0;
+}
+.indiasFirstProductsMarketp {
+  position: absolute;
+  top: 247px;
+  left: 505px;
+  font-size: 16px;
+  font-family: Poppins;
+  color: #fff;
+  text-align: center;
+  display: inline-block;
+}
+.groupIcon6 {
+  position: absolute;
+  top: 216px;
+  left: 189px;
+  width: 1030px;
+  height: 152px;
+  display: none;
+}
+.frameFormGroup {
+  width: 255px;
+  border: 0;
+  background-color: transparent;
+  position: absolute;
+  top: 426px;
+  left: 165px;
+}
+.frameDropdownButton {
+  width: 255px;
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  top: 0;
+  left: 50px;
+}
+.sortBy {
+  position: absolute;
+  height: 55.56%;
+  width: 13.77%;
+  top: 22.22%;
+  right: 86.23%;
+  bottom: 22.22%;
+  left: 0;
+  line-height: 20px;
+  display: inline-block;
+}
+.frameDiv1 {
+  position: absolute;
+  top: 426px;
+  left: 970px;
+  width: 305px;
+  height: 36px;
+  font-size: 12px;
+}
+.rectangleDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 0 16px 32px rgba(221, 230, 237, 0.54);
+  width: 350px;
+  height: 387px;
+}
+.frameButton3,
+.frameButton4 {
+  width: 151px;
+  position: absolute;
+  top: 338px;
+  left: 16px;
+}
+.frameButton4 {
+  left: 183px;
+}
+.investInIdeasWithSmallCas {
+  position: absolute;
+  top: 180px;
+  left: 15px;
+  font-weight: 800;
+  text-align: center;
+  display: inline-block;
+}
+.perSmallcaseBuy {
+  font-size: 12px;
+}
+.price100PerSmallcaseBuy {
+  position: absolute;
+  top: 270px;
+  left: 16px;
+  display: inline-block;
+}
+.freeSpan {
+  color: #13d726;
+}
+.offerPriceFreeForCustomer {
+  position: absolute;
+  top: 296px;
+  left: 16px;
+  font-family: Poppins;
+  display: inline-block;
+}
+.rectangleDiv3,
+.rectangleDiv4 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px 8px 0 0;
+  width: 350px;
+  height: 156px;
+}
+.rectangleDiv3 {
+  background-color: #008ad1;
+}
+.rectangleDiv4 {
+  background: linear-gradient(
+    180deg,
+    rgba(255, 255, 255, 0) 32.29%,
+    rgba(0, 0, 0, 0.48)
+  );
+}
+.smallcasesAreInvestmentProd {
+  position: absolute;
+  top: 206px;
+  left: 16px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+  width: 318px;
+}
+.groupDiv4 {
+  position: absolute;
+  top: 496px;
+  left: 545px;
+  width: 350px;
+  height: 387px;
+}
+.frameButton5 {
+  width: 150px;
+  position: absolute;
+  top: 338px;
+  left: 16px;
+}
+.buyDirectFundsAtZeroCommi {
+  position: absolute;
+  top: 180px;
+  left: 16px;
+  font-weight: 800;
+  text-align: center;
+  display: inline-block;
+}
+.price {
+  font-weight: 800;
+}
+.rectangleDiv6 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px 8px 0 0;
+  background-color: #b8ffc0;
+  width: 350px;
+  height: 156px;
+}
+.blurLandingCorporate24660xIcon {
+  position: absolute;
+  top: 16px;
+  left: 174px;
+  width: 160px;
+  height: 100px;
+  object-fit: cover;
+}
+.reviewsDiv {
+  position: absolute;
+  top: 124px;
+  left: 136px;
+  font-size: 12px;
+  line-height: 16px;
+  font-weight: 500;
+  color: #fff;
+  display: inline-block;
+}
+.groupDiv5,
+.groupIcon7 {
+  position: absolute;
+  top: 123px;
+  left: 16px;
+  width: 112px;
+  height: 16px;
+}
+.groupDiv5 {
+  top: 497px;
+  left: 925px;
+  width: 350px;
+  height: 387px;
+}
+.indiasFirstOptionTradingP {
+  position: absolute;
+  top: 180px;
+  left: 16px;
+  font-weight: 800;
+  display: inline-block;
+}
+.rectangleDiv9 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px 8px 0 0;
+  background-color: #006de6;
+  width: 350px;
+  height: 156px;
+}
+.onOfferDiv {
+  position: relative;
+  font-weight: 800;
+  display: inline-block;
+}
+.frameDiv2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 4px;
+  background-color: #ff1414;
+  display: flex;
+  flex-direction: row;
+  padding: 3px 8px;
+  box-sizing: border-box;
+  align-items: center;
+  justify-content: flex-start;
+}
+.groupDiv7 {
+  position: absolute;
+  top: 16px;
+  left: 274px;
+  width: 60px;
+  height: 22px;
+  text-align: center;
+  font-size: 12px;
+  color: #fff;
+}
+.groupDiv6 {
+  position: absolute;
+  top: 914px;
+  left: 545px;
+  width: 350px;
+  height: 387px;
+}
+.offerPrice {
+  color: #444;
+}
+.rectangleDiv12 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: 8px 8px 0 0;
+  background-color: #ddd6ff;
+  width: 350px;
+  height: 156px;
+}
+.groupDiv8,
+.lineDiv {
+  position: absolute;
+  top: 914px;
+  left: 925px;
+  width: 350px;
+  height: 387px;
+}
+.lineDiv {
+  top: 425.5px;
+  left: 481.5px;
+  border-right: 1px solid #f1f1f1;
+  box-sizing: border-box;
+  width: 1px;
+  height: 869px;
+}
+.ellipseIcon2 {
+  position: absolute;
+  top: 0;
+  left: 48px;
+  width: 32px;
+  height: 32px;
+}
+.div {
+  left: 60px;
+}
+.div,
+.div1,
+.div2,
+.div3,
+.div4,
+.div5 {
+  position: absolute;
+  top: 8px;
+  font-weight: 600;
+  display: inline-block;
+}
+.div1 {
+  left: 0;
+  opacity: 0.4;
+}
+.div2,
+.div3,
+.div4,
+.div5 {
+  left: 107px;
+}
+.div3,
+.div4,
+.div5 {
+  left: 154px;
+}
+.div4,
+.div5 {
+  left: 201px;
+}
+.div5 {
+  left: 256px;
+  transform: rotate(180deg);
+  transform-origin: 0 0;
+}
+.groupDiv9 {
+  position: absolute;
+  top: 1333px;
+  left: 544px;
+  width: 256px;
+  height: 32px;
+  text-align: center;
+  font-size: 12px;
+}
+.blurLandingCorporate24660xIcon3 {
+  position: absolute;
+  top: 0;
+  left: 158px;
+  width: 160px;
+  height: 100px;
+  object-fit: cover;
+}
+.reviewsDiv3 {
+  position: absolute;
+  top: 108px;
+  left: 120px;
+  line-height: 16px;
+  font-weight: 500;
+  display: inline-block;
+}
+.groupDiv11,
+.groupIcon10 {
+  position: absolute;
+  top: 107px;
+  left: 0;
+  width: 112px;
+  height: 16px;
+}
+.groupDiv11 {
+  top: 1px;
+  left: 278px;
+  width: 40px;
+  height: 22px;
+  text-align: center;
+}
+.groupDiv10 {
+  position: absolute;
+  top: 512px;
+  left: 561px;
+  width: 318px;
+  height: 124px;
+  font-size: 12px;
+  color: #fff;
+}
+.evoqueInnovativeLab1 {
+  position: absolute;
+  top: 24px;
+  left: 165px;
+  font-size: 16px;
+  font-weight: 800;
+  font-family: Poppins;
+  color: #000;
+  display: inline-block;
+}
+.groupIcon11,
+.groupIcon12,
+.groupIcon13,
+.groupIcon14 {
+  position: absolute;
+  top: 402.06px;
+  left: 554px;
+  width: 49px;
+  height: 153.94px;
+}
+.groupIcon12,
+.groupIcon13,
+.groupIcon14 {
+  left: 934px;
+}
+.groupIcon13,
+.groupIcon14 {
+  top: 924px;
+  left: 554px;
+  height: 52px;
+}
+.groupIcon14 {
+  left: 934px;
+}
+.marketplaceDiv {
+  position: relative;
+  background-color: #fff;
+  width: 100%;
+  height: 1875px;
+  overflow: hidden;
+  text-align: left;
+  font-size: 14px;
+  color: #444;
+  font-family: HK Grotesk;
+}
